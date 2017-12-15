@@ -1,5 +1,11 @@
 
+remote_theme: "mmistakes/minimal-mistakes"
+
 plugins:
+  - jekyll-mentions
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-feed
   - jekyll-remote-theme
 
-remote_theme: "mmistakes/minimal-mistakes
+

@@ -1,7 +1,7 @@
 title: 3fun4's Blog
 logo: /assets/img/logo.png
 description: using [Minimal theme](https://pages-themes.github.io/minimal/).
-show_downloads: true
+show_downloads: false
 # remote_theme: "mmistakes/minimal-mistakes"
 # plugins:
 #  - jekyll-mentions

@@ -5,7 +5,7 @@ title:
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./articles/another-page.html).
+[Link to another page](./articles/another-page.md).
 
 There should be whitespace between paragraphs.
 

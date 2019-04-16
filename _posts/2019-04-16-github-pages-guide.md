@@ -10,11 +10,11 @@ published: true
 
 ## Official Guides
 
-* [Github Pages](https://pages.github.com/)
-* [Jekyll](http://jekyllrb.com/) 
+* [Github Pages](https://pages.github.com/){:target="_blank"}
+* [Jekyll](http://jekyllrb.com/){:target="_blank"}
 
 
 ## Reference Links
 
-* [Creating and Hosting a Personal Site on Github](http://jmcglone.com/guides/github-pages/)
+* [Creating and Hosting a Personal Site on Github](http://jmcglone.com/guides/github-pages/){:target="_blank"}
 

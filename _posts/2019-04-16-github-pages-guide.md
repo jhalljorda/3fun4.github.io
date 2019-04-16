@@ -7,7 +7,7 @@ tags: github, reference
 categories: github, blog, test
 published: true
 ---
-{:TOC}
+{:toc}
 
 # Links
 ## Official Guides

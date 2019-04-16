@@ -10,5 +10,7 @@ show_downloads: false
 #  - jekyll-feed
 #  - jekyll-remote-theme
 theme: jekyll-theme-minimal
-markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+markdown: kramdown
+kramdown:
+  parse_block_html: true

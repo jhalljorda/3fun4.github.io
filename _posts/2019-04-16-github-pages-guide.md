@@ -7,6 +7,7 @@ tags: github, reference
 categories: github, blog, test
 published: true
 ---
+
 {:toc}
 
 # Links
@@ -14,6 +15,7 @@ published: true
 
 * [Github Pages](https://pages.github.com/){:target="_blank"}
 * [Jekyll](http://jekyllrb.com/){:target="_blank"}
+* [Minimal Theme](https://github.com/pages-themes/minimal){:target="_blank"}
 
 ## Reference Links
 
@@ -30,9 +32,7 @@ published: true
 
 # Steps
 
-## create github.io repository on Github
-
-## install Jekyll on Windows
+## install Jekyll on desktop
 [Jekyll on Windows](https://jekyllrb.com/docs/installation/windows/){:target="_blank"}
 version: 2.6.1-1(x64)
 use UTF-8 as external encoding...
@@ -41,4 +41,10 @@ use UTF-8 as external encoding...
 >2. Run the `ridk install` step on the last stage of the installation wizard.
 >3. Open a new command prompt window from the start menu, so that changes to the `PATH` environment variable becomes effective. Install Jekyll and Bundler via: `gem install jekyll bundler`
 >4. Check if Jekyll installed properly: `jekyll -v`
+
+## create github.io repository on Github
+
+## clone repository to desktop
+
+## [Setting up your Github Pages site locally with Jekyll](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll){:target="_blank"}
 

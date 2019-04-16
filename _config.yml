@@ -2,11 +2,11 @@ title: 3fun4
 logo: /assets/img/logo.png
 description: Minimal is a theme for GitHub Pages.
 show_downloads: true
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-mentions
-  - jemoji
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-remote-theme
+# remote_theme: "mmistakes/minimal-mistakes"
+# plugins:
+#  - jekyll-mentions
+#  - jemoji
+#  - jekyll-sitemap
+#  - jekyll-feed
+#  - jekyll-remote-theme
 theme: jekyll-theme-minimal
